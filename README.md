@@ -1,2 +1,2 @@
 # mtlsdemo
-very basic demo of https server with mtls
+very basic demo of https server with mutual tls
