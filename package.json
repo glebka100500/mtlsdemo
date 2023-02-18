@@ -1,0 +1,19 @@
+{
+  "name": "mtlsdemo",
+  "version": "1.0.0",
+  "description": "basic demo for server leveraging mutual tls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glebka100500/mtlsdemo.git"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glebka100500/mtlsdemo/issues"
+  },
+  "homepage": "https://github.com/glebka100500/mtlsdemo#readme"
+}
